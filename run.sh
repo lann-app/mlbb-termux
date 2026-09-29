@@ -8,6 +8,8 @@ PACKAGES=(
     "com.mlbb.tes2"
     "com.mlbb.tes3"
     "com.mlbb.tes4"
+    "com.mlbb.tes5"
+    "com.mlbb.tes6"
 )
 
 run_round() {
