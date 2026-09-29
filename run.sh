@@ -3,13 +3,21 @@
 ACTIVITY="com.moba.unityplugin.MobaGameMainActivityWithExtractor"
 
 PACKAGES=(
-    "com.mlbb.tes0"
-    "com.mlbb.tes1"
-    "com.mlbb.tes2"
-    "com.mlbb.tes3"
-    "com.mlbb.tes4"
-    "com.mlbb.tes5"
-    "com.mlbb.tes6"
+    "com.amc"
+    "com.amd"
+    "com.ame"
+    "com.amf"
+    "com.amg"
+    "com.amh"
+    "com.ami"
+    "com.amj"
+    "com.amk"
+    "com.aml"
+    "com.amm"
+    "com.amn"
+    "com.amo"
+    "com.amp"
+    "com.amq"
 )
 
 run_round() {
